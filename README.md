@@ -1,3 +1,4 @@
+# Project Explanation
 The project was done by myself and GitHub user *'adampower48'* as part of the module *'Advanced Machine Learning'*. The purpose of this project was to create a recommender system to recommend song artists to a user using the Last.fm dataset.
 
 We combined this data with data we scraped from the Spotify API to get additional artist information.
@@ -5,6 +6,8 @@ We combined this data with data we scraped from the Spotify API to get additiona
 To complete this task then, we took a few different approaches, developing three different systems. These systems used clustering, collaborative filtering and deep learning respectively.
 
 The code for completing this recommendation task was then done using google collab for collaboration purposes and to get experiance using this platform. Afterwards, I coppied the developed code into this GitHub repository.
+
+# Notebook Details
 This code broke down into five different notebooks:
 
 1.  The first notebook is the 'Data Processing' notebook.
